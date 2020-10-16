@@ -146,7 +146,7 @@ XCOORD;YCOORD;TYPEOFSEDIMENTINPUT;
 2'613'814;1'230'926;SedimentreicherEinmuender;
 2'621'305;1'230'645;SedimentreicherEinmuender;
 2'629'241;1'235'029;SedimentreicherEinmuender;
-2'634'155, 1'240'310;SedimentreicherEinmuender;
+2'634'155;1'240'310;SedimentreicherEinmuender;
 2'634'282;1'240'642;SedimentreicherEinmuender;
 2'635'238;1'244'359;SedimentreicherEinmuender;
 2'635'411;1'245'408;SedimentreicherEinmuender;
