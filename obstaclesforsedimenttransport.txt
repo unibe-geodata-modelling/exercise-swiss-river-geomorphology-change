@@ -32,3 +32,5 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2795770;1165893;Kraftwerk;keineInfo
 2820582;1187807;Kraftwerk;keineInfo
 2831477;1199335;Kraftwerk;keineInfo
+2575059;1174129;Staumauer;keineInfo
+2581334;1192436;Staumauer;keineInfo
