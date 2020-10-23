@@ -1,11 +1,6 @@
 XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
-2745384.5;1247306.5;Kraftwerk;keineInfo
-2742139.8;1252478.8;Kraftwerk;keineInfo
-2743068.5;1253535.8;Kraftwerk;keineInfo
-2743590.2;1253750.8;Kraftwerk;keineInfo
-2745039.5;1256734.5;Kraftwerk;keineInfo
-2736405.7;1263070.8;Kraftwerk;keineInfo
-2735771.3;1262249.3;Kraftwerk;keineInfo
+2745384.5;1247306.5;Kraftwerk;unsicher
+2742139.8;1252478.8;Kraftwerk;unsicher
 2689419.3;1153430.0;Elektrizitätswerk;keineInfo
 2707830.4;1144025.9;Elektrizitätswerk;keineInfo
 2584875;1205847;Kraftwerk;keineInfo
