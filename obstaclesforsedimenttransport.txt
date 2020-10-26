@@ -29,3 +29,8 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2831477;1199335;Kraftwerk;keineInfo
 2575059;1174129;Staumauer;keineInfo
 2581334;1192436;Staumauer;keineInfo
+2641125.7;1165049.6;Kraftwerk;BedingterGeschiebeDurchlass
+2614340.6;1169264.0;Kraftwerk;BedingterGeschiebeDurchlass
+2618137.1;1150462.9;Kraftwerk;SedimentDurchlass
+2600950;1199390.7;Kraftwerk;GeschiebeDurchgängig
+2600483.4;1201598.5;Kraftwerk;BedingterGeschiebeDurchlass
