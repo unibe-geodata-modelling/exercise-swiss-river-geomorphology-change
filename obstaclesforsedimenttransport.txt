@@ -31,6 +31,10 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2581334;1192436;Staumauer;keineInfo
 2641125.7;1165049.6;Kraftwerk;BedingterGeschiebeDurchlass
 2614340.6;1169264.0;Kraftwerk;BedingterGeschiebeDurchlass
-2618137.1;1150462.9;Kraftwerk;SedimentDurchlass
+2618137.1;1150462.9;Kraftwerk;GeschiebeDurchlass
 2600950;1199390.7;Kraftwerk;GeschiebeDurchgängig
 2600483.4;1201598.5;Kraftwerk;BedingterGeschiebeDurchlass
+2636223.3;1174234.4;MündungBrienzersee;keineInfo
+2646244;1176981.4;MündungBrienzersee;keineInfo
+2594709.3;1201412.7;MündungWohlensee;keineInfo
+
