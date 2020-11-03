@@ -37,4 +37,5 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2636223.3;1174234.4;MündungBrienzersee;keineInfo
 2646244;1176981.4;MündungBrienzersee;keineInfo
 2594709.3;1201412.7;MündungWohlensee;keineInfo
+2588302;1202001;Kraftwerk;keineInfo
 
