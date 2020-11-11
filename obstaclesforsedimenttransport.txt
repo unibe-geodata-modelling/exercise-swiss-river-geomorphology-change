@@ -126,7 +126,39 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2702714.543;1203104.036;Schwelle;keineInfo
 2702743.177;1203095.291;Schwelle;keineInfo
 2702764.614;1203089.410;Schwelle;keineInfo
-
+2614130;1267644;Kraftwerk;Schleuse
+2620412;1265140;Kraftwerk;Schleuse
+2628170;1268744;Kraftwerk;Flachwasserzonen und Kiesbänke angelegt
+2629700;1270694;Kraftwerk;
+2639001;1267584;Kraftwerk;
+2645929;1267408;Kraftwerk;
+2652229;1270794;Kraftwerk;
+2655130;1272146;Kraftwerk;Kiesbänke angelegt
+2667680;1269301;Kraftwerk;
+2677849;1269867;Kraftwerk;
+2687400;1277118;Kraftwerk;
+2688332;1281679;Kraftwerk;Rheinfall, unsicher
+2689470;1283175;Kraftwerk;
+2752260;1188995;Kraftwerk;
+2613788;1263887;Kraftwerk;unsicher
+2612718;1259816;Kraftwerk;
+2611681;1254677;Kraftwerk;
+2610750;1254226;Kraftwerk;
+2608240;1254789;Kraftwerk;
+2606440;1253960;Kraftwerk;ausser Betrieb
+2604721;1252092;Kraftwerk;
+2604117;1251074;Kraftwerk;
+2594124;1247810;Kraftwerk;unsicher
+2745771;1186627;Kraftwerk;betrifft Hauptlauf nicht
+2728319;1181377;Kraftwerk;unsicher
+2711610;1175379;Kraftwerk;betrifft Hauptlauf nicht
+2751189;1181182;Kraftwerk;unsicher,betrifft Hauptlauf nicht?
+2753301;1172944;Kraftwerk;unsicher
+2686480;1264847;Kraftwerk;
+2690550;1264108;Kraftwerk;
+2693029;1263748;Kraftwerk;unsicher
+2699334;1258092;Kraftwerk;betrifft Hauptlauf nicht
+2700298;1257342;Kraftwerk;betrifft Hauptlauf nicht
 
 
 
