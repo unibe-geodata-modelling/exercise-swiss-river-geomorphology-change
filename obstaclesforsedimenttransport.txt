@@ -29,14 +29,6 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2831477;1199335;Kraftwerk;keineInfo
 2575059;1174129;Staumauer;keineInfo
 2581334;1192436;Staumauer;keineInfo
-2641125.7;1165049.6;Kraftwerk;BedingterGeschiebeDurchlass
-2614340.6;1169264.0;Kraftwerk;BedingterGeschiebeDurchlass
-2618137.1;1150462.9;Kraftwerk;GeschiebeDurchlass
-2600950;1199390.7;Kraftwerk;GeschiebeDurchgängig
-2600483.4;1201598.5;Kraftwerk;BedingterGeschiebeDurchlass
-2636223.3;1174234.4;MündungBrienzersee;keineInfo
-2646244;1176981.4;MündungBrienzersee;keineInfo
-2594709.3;1201412.7;MündungWohlensee;keineInfo
 2588302;1202001;Kraftwerk;keineInfo
 2621487;1205150;Kraftwerk;keineInfo
 2619280;1205779;Kraftwerk;keineInfo
@@ -159,7 +151,18 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2693029;1263748;Kraftwerk;unsicher
 2699334;1258092;Kraftwerk;betrifft Hauptlauf nicht
 2700298;1257342;Kraftwerk;betrifft Hauptlauf nicht
-
-
-
+2641125.7;1165049.6;Kraftwerk;BedingterGeschiebeDurchlass
+2614340.6;1169264.0;Kraftwerk;keineInfo
+2595606.9;1159649.8;Kraftwerk;keineInfo
+2597542.5;1150183.7;Kraftwerk;keineInfo
+2618137.1;1150462.9;Kraftwerk;GeschiebeDurchlass
+2631248.3;1170148.5;Kraftwerk;keineInfo
+2600950.0;1199390.7;Kraftwerk;GeschiebeDurchlass
+2600483.4;1201598.5;Kraftwerk;BedingterGeschiebeDurchlass
+2588270.0;1202060.0;Kraftwerk;keineInfo
+2635142.5;1171185.2;MündungBrienzersee (Lütschine)
+2646539.4;1176983.5;MündungBrienzersee (Hasliaare)
+2629749.3;1168457.3;MündungThunersee (Brienzersee)
+2615645.0;1174270.8;MündungThunersee (Kander)
+2598456.7;1202251.7;MündungWohlensee
 
