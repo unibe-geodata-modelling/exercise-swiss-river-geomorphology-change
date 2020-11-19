@@ -165,4 +165,6 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2629749.3;1168457.3;MündungThunersee (Brienzersee)
 2615645.0;1174270.8;MündungThunersee (Kander)
 2598456.7;1202251.7;MündungWohlensee
-
+2499402;1117832;Staudamm;Seujet;
+2491153;1116698;Kraftwerk;Verbois;
+2487036;1113165;Kraftwerk;Chancy-Pougny;
