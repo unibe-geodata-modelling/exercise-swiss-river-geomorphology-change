@@ -30,8 +30,8 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2575059;1174129;Staumauer;keineInfo
 2581334;1192436;Staumauer;keineInfo
 2588302;1202001;Kraftwerk;keineInfo
-2621487;1205150;Kraftwerk;keineInfo
-2619280;1205779;Kraftwerk;keineInfo
+2621487;1205150;Kraftwerk;GeschiebeDurchlass
+2619280;1205779;Kraftwerk;GeschiebeDurchlass
 2607353;1218886;Kraftwerk;GeschiebeDurchlass
 2608000;1220233;Kraftwerk;GeschiebeDurchlass
 2608150;1221657;Kraftwerk;GeschiebeDurchlass
@@ -45,10 +45,10 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2679100;1250595;Kraftwerk;keineInfo
 2673233;1251110;Kraftwerk;keineInfo
 2673157;1251506;Kraftwerk;keineInfo
-2666551;1256582;Kraftwerk;keineInfo
+2666551;1256582;Kraftwerk;keineGeschiebeDurchlass
 2665586;1257867;Kraftwerk;keineInfo
 2665759;1258093;Kraftwerk;keineInfo
-2664392;1259687;Kraftwerk;keineInfo
+2664392;1259687;Kraftwerk;keineGeschiebeDurchlass
 2662646;1259949;Kraftwerk;keineInfo
 2662270;1260086;Kraftwerk;keineInfo
 2661438;1260910;Kraftwerk;keineInfo
