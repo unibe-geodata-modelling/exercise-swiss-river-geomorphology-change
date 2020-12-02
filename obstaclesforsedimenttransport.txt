@@ -159,7 +159,6 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2631248.3;1170148.5;Kraftwerk;keineInfo
 2600950.0;1199390.7;Kraftwerk;GeschiebeDurchlass
 2600483.4;1201598.5;Kraftwerk;BedingterGeschiebeDurchlass
-2588270.0;1202060.0;Kraftwerk;keineInfo
 2635142.5;1171185.2;MündungBrienzersee (Lütschine)
 2646539.4;1176983.5;MündungBrienzersee (Hasliaare)
 2629749.3;1168457.3;MündungThunersee (Brienzersee)
@@ -168,7 +167,6 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2499402;1117832;Staudamm;Seujet;
 2491153;1116698;Kraftwerk;Verbois;
 2487036;1113165;Kraftwerk;Chancy-Pougny;
-
 2685205;1157507;Speicherkraftwerk;LagodiLucendro_Gotthardpass
 2679016;1160046;Realp
 2688194;1166648;Andermatt
