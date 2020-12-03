@@ -23,7 +23,6 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2659294;1266878;Kraftwerk;BedingterGeschiebeDurchlass
 2660103;1267767;Kraftwerk;keineInfo
 2659122;1271806;Kraftwerk;keineInfo
-2792006;1162593;MündungMadulain;keineInfo
 2795770;1165893;Kraftwerk;keineInfo
 2820582;1187807;Kraftwerk;keineInfo
 2831477;1199335;Kraftwerk;keineInfo
