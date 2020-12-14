@@ -182,3 +182,4 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2668555;1244017;Laufkraftwerk;Bremgarten_Zufikon
 2668097;1244745;Laufkraftwerk;Bremgarten_Bruggmühle
 2659468;1259234;Ausleitungskraftwerk;Windisch
+2784933;1152445;Seeauslauf;St.Moritzersee
