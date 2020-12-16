@@ -183,3 +183,7 @@ XCOORD;YCOORD;TYPEOFOBSTACLE;BEMERKUNG
 2668097;1244745;Laufkraftwerk;Bremgarten_Bruggmühle
 2659468;1259234;Ausleitungskraftwerk;Windisch
 2784933;1152445;Seeauslauf;St.Moritzersee
+2646357;1133592;Kraftwerk
+2631217;1128462;Schwelle
+2615323;1128983;Schwelle
+2568771;1114876;Kraftwerk
